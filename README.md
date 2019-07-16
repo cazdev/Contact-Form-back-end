@@ -3,5 +3,5 @@ A back end PHP contact form script with non-capcha spam detection, IP, operation
 
 Strings containing "TODO" need to be filled out in order to send and receive an email
 
-Requires PHPMailer
+Requires PHPMailer: 
 https://github.com/PHPMailer/PHPMailer
