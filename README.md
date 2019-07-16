@@ -5,3 +5,5 @@ Strings containing "TODO" need to be filled out in order to send and receive an 
 
 Requires PHPMailer: 
 https://github.com/PHPMailer/PHPMailer
+
+Fields named 'website', 'email' and 'message' will be used as honeypot fields to test for bots.
